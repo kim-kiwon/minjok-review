@@ -1,0 +1,4 @@
+apis:
+  chatgpt:
+    domain: 'https://api.openai.com'
+    apiKey: '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'
